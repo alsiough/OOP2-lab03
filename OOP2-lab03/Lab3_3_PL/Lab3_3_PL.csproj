@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ConsoleOutputEncoding>utf-16</ConsoleOutputEncoding>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lab3_3_BLL\Lab3_3_BLL.csproj" />
+    <ProjectReference Include="..\Lab3_3_DAL\Lab3_3_DAL.csproj" />
+  </ItemGroup>
+</Project>
