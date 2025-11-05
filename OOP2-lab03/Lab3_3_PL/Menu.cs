@@ -25,7 +25,7 @@ namespace Lab3_3_PL
                 Console.WriteLine("1. Додати рахунок");
                 Console.WriteLine("2. Зберегти рахунки у файл (UTF-16 JSON)");
                 Console.WriteLine("3. Завантажити рахунки з файлу");
-                Console.WriteLine("4. Порахувати студентів гуртожитку 5 курсу (демо)");
+                Console.WriteLine("4. Порахувати студентів гуртожитку 5 курсу");
                 Console.WriteLine("5. Зберегти студентів у файл");
                 Console.WriteLine("6. Завантажити студентів з файлу");
                 Console.WriteLine("0. Вихід");
