@@ -65,7 +65,7 @@ namespace Lab3_3_PL
                         break;
 
                     case "4":
-                        // Демонстраційний список студентів (можна замінити завантаженням)
+                        
                         students = new List<Student>
                         {
                             new Student { LastName = "Іваненко", FirstName = "Олег", Course = 5, Gender = "ч", Residence = "5-32" },
