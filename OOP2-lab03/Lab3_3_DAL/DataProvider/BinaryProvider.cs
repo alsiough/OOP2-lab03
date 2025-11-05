@@ -3,7 +3,7 @@
 
                 namespace Lab3_3_DAL.DataProvider
                 {
-                    // Note: BinaryFormatter is obsolete; used here for demonstration only.
+                    
                     public class BinaryProvider : IDataProvider
                     {
                         public void Serialize<T>(T data, string path)
